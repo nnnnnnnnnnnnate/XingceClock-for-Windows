@@ -1,0 +1,11 @@
+# 用户自己的清单，不入库
+stages.txt
+stages.txt.tmp
+
+# build.bat 生成的输出（仓库里跟踪的是预编译的 行测计时器.exe）
+XingceTimer.exe
+
+*.pdb
+*.user
+bin/
+obj/
